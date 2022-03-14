@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "a-remplir",
+    "password": "a-remplir",
+    "database": "database_developpement_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "a-remplir",
+    "password": "a-remplir",
+    "database": "database_test_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "a-remplir",
+    "password": "a-remplir",
+    "database": "database_production_groupomania",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
